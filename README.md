@@ -61,4 +61,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Contact
 
-For any inquiries, please contact Aniket Somnath Lokhande at aniketlokhande3654@gmail.com.
+For any inquiries, please contact Nikhil Vijay Divekar at nikhildivekar041@gmail.com.
