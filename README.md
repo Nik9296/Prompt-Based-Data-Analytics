@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
       
 **Results**
 
-https://github.com/AniketLokhande801/prompt_based_Data_Analytics/blob/main/prompt%20analytics%20result.png
+https://github.com/Nik9296/Prompt-Based-Data-Analytics/blob/main/prompt%20analytics%20result.png
 
 ## Project Structure
 
