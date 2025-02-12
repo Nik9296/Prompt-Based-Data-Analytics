@@ -45,5 +45,3 @@ if st.button("Generate"):
 
 
 
-
-# "C:\Users\Aniket\OneDrive\Desktop\promt based anaysis\main.py"
