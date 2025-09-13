@@ -1,4 +1,4 @@
-# Prompt-Based Data Analytics
+# Prompt-Based Data Analytics.
 
 This repository contains a project that provides an interactive web application for prompt-driven data analysis using Streamlit and pandasai. The application allows users to upload CSV files and perform data queries using natural language prompts powered by OpenAI's language model.
 
